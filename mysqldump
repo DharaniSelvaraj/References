@@ -1,1 +1,4 @@
-mysqldump -u "username" -p "db_name" > "folder:\db_sqlfile.sql"
+1. cmd prompt
+2. copy the mysql server bin location
+3. type mysqldump.exe
+4. type mysqldump -u "username" -p "db_name" > "folder:\db_sqlfile.sql"
